@@ -24,13 +24,15 @@ The API lets you manage a book collection with full CRUD operations, plus some e
 
 ## Project Structure
 ```
-├── src/
-│   ├── server.ts           # Main server entry point
-│   ├── bookHandler.ts      # All book operations
-│   └── prototypes.ts       # Types, routes, utilities
 ├── data/
 │   └── books.json         # Data storage
-├── dist/                  # Compiled JavaScript
+├── src/
+|   ├── bookHandler.ts     # All book operations
+│   ├── routes.ts          # Routes
+│   ├── server.ts          # Main server entry point
+│   └── types.ts           # Types and utilities
+├── LICENSE
+├── README.md
 └── tsconfig.json          # TypeScript config
 ```
 
