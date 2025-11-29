@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "nineteen eighty-four",
+    "author": "george orwell",
+    "genre": "science fiction",
+    "year": 1949
+  },
+  {
+    "id": 2,
+    "name": "harry potter",
+    "author": "j.k. rowling",
+    "genre": "mystrey",
+    "year": 1997
+  },
+  {
+    "id": 4,
+    "name": "and then there were none",
+    "author": "agatha christie",
+    "genre": "mystery",
+    "year": 2021
+  },
+  {
+    "name": "the great gatsby",
+    "author": "f. scott fitzgerald",
+    "genre": "mystrey",
+    "year": 1925,
+    "id": 5
+  },
+  {
+    "name": "the catcher in the rye",
+    "author": "j.d. salinger",
+    "genre": "philosophy",
+    "year": 1951,
+    "id": 6
+  }
+]
