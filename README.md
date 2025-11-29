@@ -104,4 +104,3 @@ MIT - Feel free to use this however you want!
 ## Acknowledgments
 
 Built as part of a weekend coding challenge to practice backend fundamentals.
-```
